@@ -1,0 +1,51 @@
+.titre{
+    color: white;
+    text-align: center;
+    font-size: 800%;
+}
+body{
+    background-color: #808080
+    ;
+}
+h1{
+    color: white;
+}
+.parcours{
+    text-align: center;
+    font-size: 700%;
+}
+.prenom{
+    text-align: center;
+    
+    
+}
+.nom{
+    text-align: center;
+    
+    
+}
+.classe{
+    text-align: center;
+    
+    
+}
+.fleche{
+    size-adjust: 10px;
+
+}
+nav.nav{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    
+}
+nav.nav li {
+color: white;
+}
+header.header {
+    display: flex;
+    align-items: center;
+}
+section.top-page{
+    padding: 25px;
+}
